@@ -1,0 +1,9 @@
+class fourth {
+    public static void main() {
+
+        for (int i = 1; i>=1; i+=1)
+        {
+            System.out.println(i);
+        }
+    }
+}
